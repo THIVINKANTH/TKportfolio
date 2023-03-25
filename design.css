@@ -283,7 +283,7 @@ p{
     border: none;
     border-radius: 12px;
     cursor: pointer;
-    background-color: #950db7;
+    background-color: #7f00ff;
     box-shadow: 0px 0px 10px 4px rgba(160, 160, 160, 0.3);
     color: white;
     font-family: "Inter", sans-serif;
@@ -291,10 +291,10 @@ p{
     font-size: 14px;
   }
   #contact .input-area button:hover {
-    background-color: #a627c6;
+    background-color:  #7f00ff;
   }
   #contact .input-area button:active {
-    background-color: #a939c5;
+    background-color: #7f00ff;
   }
   span{
     font-weight: bolder;
@@ -308,18 +308,3 @@ p{
     font-size: 13px;
     font-family: "Inter", sans-serif;
   }
-/* .link{
-    width: 100%;
-    position: relative;
-    left: 150px;
-} */
-.link a:hover{
-    transform: scale(1.6);
-    color: #7f00ff;
-}
-.link a{
-    
-    font-size: 40px;
-    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
-    margin-right: 50px;
-}
