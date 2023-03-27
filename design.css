@@ -97,9 +97,9 @@ p{
     background-color: #7f00ff;
 }
 #myphoto{
-    height: 190px;
-    border-image-width: 10px;
-    width: 150px; 
+    height: 220px;
+    /* border-image-width: 10px; */
+    width: 180px; 
 }
 .about{
     /* background-color: lightpink; */
