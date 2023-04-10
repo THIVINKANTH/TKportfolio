@@ -8,10 +8,8 @@ body{
 } */
 #name{
     font-weight: bold;
-    background-image: linear-gradient(white,grey);
-    -webkit-background-clip: text;
-    color: transparent;
-    font-size: 30px;
+    color:olive;
+    font-size: 25px;
 }
 .navbar-nav{
     font-size: 20px;
