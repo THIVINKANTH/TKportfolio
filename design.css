@@ -28,7 +28,7 @@ body{
     justify-content: center;
     align-items: center;
     padding: 0 10%;
-    overflow: hidden;
+    /* overflow: hidden; */
     margin: calc(100vh-82);
 }
 .links{
@@ -103,7 +103,7 @@ p{
 }
 .about{
     /* background-color: lightpink; */
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 .me{
     color: rgb(81, 0, 255);
@@ -132,11 +132,11 @@ p{
 .skills{
     /* background-image: url(/images/skils.jpg);
     color:yellow; */
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 #portfolio {
     padding-top: 4rem;
-    overflow: hidden;
+    /* overflow: hidden; */
   }
   #portfolio .projects {
     margin: 1rem 0;
